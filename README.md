@@ -4,6 +4,9 @@
 <h3 align="left">Tools:</h3>
 
 
+<h3 align="center">A passionate Backend Developer / DevOps from Russian</h3>
+
+
 <p align="left"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
@@ -33,6 +36,6 @@
 
 
  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reader2kk3&show_icons=true&locale=en" alt="reader2kk3" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reader2kk3&show_icons=true&locale=en" alt="reader2kk3" align="center"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reader2kk3&" alt="reader2kk3" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reader2kk3&" alt="reader2kk3" align="center"/></p>
