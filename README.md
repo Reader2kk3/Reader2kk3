@@ -31,7 +31,7 @@
 </p>
 
 
-<p><img align="left" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reader2kk3&show_icons=true&locale=en&layout=compact" alt="reader2kk3" /></p>
+
  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reader2kk3&show_icons=true&locale=en" alt="reader2kk3" /></p>
 
