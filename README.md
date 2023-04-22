@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
 <h3 align="center">A passionate Backend Developer / DevOps from Russian</h3>
 
-<h3 align="left">Tools:</h3>
+
+<h3 align="left">Backend Developer:</h3>
 
 
-<h3 align="center">Backend Developer</h3>
-
-
-<h3 align="center">DevOps</h3>
+<h3 align="left">DevOps:</h3>
 
 <p align="left"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a> 
