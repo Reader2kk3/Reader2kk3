@@ -57,14 +57,14 @@
 
 <div style="background: linear-gradient(to right, #4CAF50, #00BCD4); text-align: center; color: white;" align="center">
   <h1>Мой красивый заголовок</h1>
+  <p align="center">
+    <img src="https://www.codewars.com/users/Reader2kk3/badges/large" alt="Codewars badge">
+  </p>
 </div>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Codewars)](https://git.io/typing-svg)
 
 
-<p align="center">
-  <img src="https://www.codewars.com/users/Reader2kk3/badges/large" alt="Codewars badge">
-</p>
+
 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reader2kk3&show_icons=true&locale=en" alt="reader2kk3"/></p>
