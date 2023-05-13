@@ -20,7 +20,7 @@
       <td>Data 3</td>
     </tr>
     <tr>
-      <td><p align="center"><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a></p>/td>
+      <td><p align="center"><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a></p></td>
       <td>Data 5</td>
       <td>Data 6</td>
       <td>Data 3</td>
