@@ -56,7 +56,7 @@
 <hr>
 
 <div style="background: linear-gradient(to right, #4CAF50, #00BCD4); text-align: center; color: white;" align="center">
-  <h1>Мой красивый заголовок</h1>
+  <h1>Codewars</h1>
   <p align="center">
     <img src="https://www.codewars.com/users/Reader2kk3/badges/large" alt="Codewars badge">
   </p>
