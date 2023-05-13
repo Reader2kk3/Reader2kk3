@@ -45,7 +45,4 @@
  
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reader2kk3&show_icons=true&locale=en" alt="reader2kk3"/></p>
 
-
-<div align="center">
-  [![codewars](https://www.codewars.com/users/Reader2kk3/badges/large)](https://www.codewars.com/users/Reader2kk3)
-</div>
+[![codewars](https://www.codewars.com/users/Reader2kk3/badges/large)](https://www.codewars.com/users/Reader2kk3)
