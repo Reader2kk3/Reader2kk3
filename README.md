@@ -55,7 +55,7 @@
 
 <hr>
 
-<p>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=636363&size=30&lines=Codewars)](https://git.io/typing-svg)</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=636363&size=30&lines=Codewars)](https://git.io/typing-svg)
 
 
 <p align="center">
