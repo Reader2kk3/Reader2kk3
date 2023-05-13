@@ -55,6 +55,10 @@
 
 <hr>
 
+<div style="background: linear-gradient(to right, #4CAF50, #00BCD4); text-align: center; color: white;">
+  <h1>Мой красивый заголовок</h1>
+</div>
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Codewars)](https://git.io/typing-svg)
 
 
