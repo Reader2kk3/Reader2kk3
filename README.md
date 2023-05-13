@@ -1,5 +1,3 @@
-Перепиши код по центру
-
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
 <h3 align="center">A passionate Backend Developer / DevOps from Russian</h3>
 
@@ -53,7 +51,6 @@
   </tbody>
 </table>
 
-
 <hr>
 
 <div style="background: linear-gradient(to right, #4CAF50, #00BCD4); text-align: center; color: white;" align="center">
@@ -63,9 +60,6 @@
   </p>
 </div>
   
-
-
 <hr>
-
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reader2kk3&show_icons=true&locale=en" alt="reader2kk3"/></p>
