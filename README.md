@@ -48,4 +48,4 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reader2kk3&" alt="reader2kk3"/></p>
 
 
-<p align="center">[![codewars](https://www.codewars.com/users/Reader2kk3/badges/large)](https://www.codewars.com/users/Reader2kk3)</p>
+<div align="center">[![codewars](https://www.codewars.com/users/Reader2kk3/badges/large)](https://www.codewars.com/users/Reader2kk3)</div>
