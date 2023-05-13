@@ -21,7 +21,10 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
 </p>
 
-
+| Heading 1 | Heading 2 | Heading 3 |  
+|-----------|:-----------:|-----------:|  
+| <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> | Cell A2 | Cell A3 |  
+| <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> | Cell B2 | Cell B3<br/>second line of text |
 
 <h3 align="left">DevOps:</h3>
 <p align="left"> 
@@ -44,9 +47,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Codewars)](https://git.io/typing-svg)
 <br/>
-$$
+
 [![codewars](https://www.codewars.com/users/Reader2kk3/badges/large)](https://www.codewars.com/users/Reader2kk3)
-$$
+
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reader2kk3&show_icons=true&locale=en" alt="reader2kk3"/></p>
 
