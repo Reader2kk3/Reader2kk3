@@ -55,7 +55,7 @@
 
 <hr>
 
-<div style="background: linear-gradient(to right, #4CAF50, #00BCD4); text-align: center; color: white;">
+<div style="background: linear-gradient(to right, #4CAF50, #00BCD4); text-align: center; color: white;" align="center">
   <h1>Мой красивый заголовок</h1>
 </div>
   
