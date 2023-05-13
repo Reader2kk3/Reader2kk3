@@ -6,9 +6,10 @@
 <table align="center">
   <thead>
     <tr>
-      <th>Header 1</th>
-      <th>Header 2</th>
-      <th>Header 3</th>
+      <th><h3 align="center">Backend Developer</h3></th>
+      <th><h3 align="center">Frontend Developer</h3></th>
+      <th><h3 align="center">DevOps</h3></th>
+      <th><h3 align="center">Database</h3></th>
     </tr>
   </thead>
   <tbody>
