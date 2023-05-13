@@ -55,12 +55,8 @@
 
 <hr>
 
+<p>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=636363&size=30&lines=Codewars)](https://git.io/typing-svg)</p>
 
-<center>
-  <p>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=636363&size=30&lines=Codewars)](https://git.io/typing-svg)</p>
-</center>
-
-<br/>
 
 <p align="center">
   <img src="https://www.codewars.com/users/Reader2kk3/badges/large" alt="Codewars badge">
