@@ -37,8 +37,25 @@
       <td>Data 6</td>
       <td><p align="center"><a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a></p></td>
     </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>Data 6</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>Data 6</td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
+
+
+
+
+
 
 | <h3 align="center">Backend Developer</h3> | <h3 align="center">Frontend Developer</h3> | <h3 align="center">DevOps</h3> | <h3 align="center">Database</h3> |  
 |:-----------:|-----------|:-----------:|-----------:|  
