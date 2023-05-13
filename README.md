@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
 <h3 align="center">A passionate Backend Developer / DevOps from Russian</h3>
 
+<h3 align="center">SKILLS</h3>
 <table align="center">
   <thead>
     <tr>
