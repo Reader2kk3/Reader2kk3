@@ -42,9 +42,9 @@
   <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a> 
 </p>
 
-<picture>
+<summary>
   [![codewars](https://www.codewars.com/users/Reader2kk3/badges/large)](https://www.codewars.com/users/Reader2kk3)
-</picture>
+</summary>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reader2kk3&show_icons=true&locale=en" alt="reader2kk3"/></p>
 
 
